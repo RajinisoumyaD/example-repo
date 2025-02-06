@@ -1,2 +1,3 @@
 # example-repo
-sample description 
+ This is my first Git Repository
+Author D Rajinisoumya
